@@ -61,11 +61,13 @@ footer {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    flex-direction: column;
-    height: 900px;
+    flex-direction: ;
+    height: ;
     border: 5px solid #FFA69E;
 }
 
-P {
+P h2 {
     color: #6D435A;
+    border: 5px solid #D34F73;
+    background-color: #F7DAD9;
 }
